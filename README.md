@@ -43,10 +43,10 @@ Resolver los ejercicios 4 y 5 usando LinkedList o ArrayList en lugar de Arrays.
 **Ejercicio 7**
 
 Completar el desarrolo del Ejemplo 5 de Acceso a Datos.
-Pueden encontrar el código en este [link](../ejemplos/Ej5AccesoADatos)
-1. En primer lugar debe seguir estas [instrucciones](../ejemplos/Ej5AccesoADatos/src/steps.md)
-2. Para ello usará los archivos del directorio [db](../ejemplos/Ej5AccesoADatos/db) para crear la base de datos y usuario para el ejercicio.
-3. Luego debe completar la funcionalidad del ejercicio [planteada en el menú](../ejemplos/Ej5AccesoADatos/src/ui/Menu.java) con los comandos
+Pueden encontrar el código en este [link](utnfrrojava/java2020/ejemplos/Ej5AccesoADatos)
+1. En primer lugar debe seguir estas [instrucciones](utnfrrojava/java2020/ejemplos/Ej5AccesoADatos/src/steps.md)
+2. Para ello usará los archivos del directorio [db](utnfrrojava/java2020/ejemplos/Ej5AccesoADatos/db) para crear la base de datos y usuario para el ejercicio.
+3. Luego debe completar la funcionalidad del ejercicio [planteada en el menú](utnfrrojava/java2020/ejemplos/Ej5AccesoADatos/src/ui/Menu.java) con los comandos
       * search
       * new
       * edit
